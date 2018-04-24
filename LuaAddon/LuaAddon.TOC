@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: Lua Addon
+## Author: Nathan Hebert
+## Version: 0.1
+
+main.lua
+lvlup.lua
+timerping.lua
+statusbar.lua
+2hrlimit.lua
+spinCam.lua
+stopCam.lua

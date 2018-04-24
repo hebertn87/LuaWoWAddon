@@ -1,0 +1,1 @@
+message('Hello, human. You are started this game up for no reason. Press OK if you are ok with your life.')
